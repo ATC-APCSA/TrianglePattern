@@ -9,7 +9,8 @@ void draw(){
     pushMatrix(); // pushMatrix and popMatrix contain the rotation to the functions between them
     translate(200,200); //moves the orgin point of the rotation
     rotate(45); //degrees that the object is rotated
-    ellipse(0,0,100,50); // oval that is rotated, notice that the x,y are at 0,0 this works in combination with the rotate
+    ellipse(0,0,100,50); // oval that is rotated
+    // notice that the x, y are at 0, 0 this works in combination with the translate so that the origin of the rotation is centered
     popMatrix(); 
     
     rect(50,50,20,20); // is no longer impacted by the rotation
