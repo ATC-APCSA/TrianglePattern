@@ -1,4 +1,4 @@
-# rotationExample
-sample code of how to shape rotate an object in Java. 
+# Vertex Shape Pattern with Nested Loop
 
-Here is an example of the starter code you can modify to learn about shape rotation in processing with Java. 
+
+Here is an example of the starter code you can modify to learn about nested loops in processing with Java. 
